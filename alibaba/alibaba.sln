@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "alibaba", "alibaba\alibaba.vcxproj", "{F96622DF-6F07-4360-8B27-919B36D2A9C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Debug|x64.ActiveCfg = Debug|x64
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Debug|x64.Build.0 = Debug|x64
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Debug|x86.Build.0 = Debug|Win32
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Release|x64.ActiveCfg = Release|x64
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Release|x64.Build.0 = Release|x64
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Release|x86.ActiveCfg = Release|Win32
+		{F96622DF-6F07-4360-8B27-919B36D2A9C2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F06057F-6522-46AA-B26D-D828862A444D}
+	EndGlobalSection
+EndGlobal

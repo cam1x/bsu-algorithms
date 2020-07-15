@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dijkstra's-algorithm", "dijkstra's-algorithm\dijkstra's-algorithm.vcxproj", "{083A9257-025D-4392-8E8C-7B2458ECC3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Debug|x64.ActiveCfg = Debug|x64
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Debug|x64.Build.0 = Debug|x64
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Debug|x86.Build.0 = Debug|Win32
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Release|x64.ActiveCfg = Release|x64
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Release|x64.Build.0 = Release|x64
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Release|x86.ActiveCfg = Release|Win32
+		{083A9257-025D-4392-8E8C-7B2458ECC3DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED131F8-949F-4213-B447-CEC5C14EE1D1}
+	EndGlobalSection
+EndGlobal
