@@ -38,5 +38,6 @@
 *.txt
 *.sln
 */Debug/
+*/Debug
 */cmake-build-debug/
 CMakeLists.txt
