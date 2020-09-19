@@ -1,7 +1,0 @@
-﻿  dijkstra's-algorithm.cpp
-F:\Projects\C++\4-sem\ta\dijkstra's-algorithm\dijkstra's-algorithm\dijkstra's-algorithm.cpp(15,54): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
-F:\Projects\C++\4-sem\ta\dijkstra's-algorithm\dijkstra's-algorithm\dijkstra's-algorithm.cpp(19,24): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
-F:\Projects\C++\4-sem\ta\dijkstra's-algorithm\dijkstra's-algorithm\dijkstra's-algorithm.cpp(20,25): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
-F:\Projects\C++\4-sem\ta\dijkstra's-algorithm\dijkstra's-algorithm\dijkstra's-algorithm.cpp(24,23): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
-F:\Projects\C++\4-sem\ta\dijkstra's-algorithm\dijkstra's-algorithm\dijkstra's-algorithm.cpp(44,43): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
-  dijkstra's-algorithm.vcxproj -> F:\Projects\C++\4-sem\ta\dijkstra's-algorithm\Debug\dijkstra's-algorithm.exe
