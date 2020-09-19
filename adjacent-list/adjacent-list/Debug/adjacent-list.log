@@ -1,0 +1,3 @@
+﻿  adjacent-list.cpp
+F:\Projects\C++\4-sem\ta\adjacent-list\adjacent-list\adjacent-list.cpp(25,22): warning C4018: <: несоответствие типов со знаком и без знака
+  adjacent-list.vcxproj -> F:\Projects\C++\4-sem\ta\adjacent-list\Debug\adjacent-list.exe

@@ -1,0 +1,4 @@
+﻿  sum.cpp
+F:\Projects\C++\4-sem\ta\sum\sum\sum.cpp(12,27): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+F:\Projects\C++\4-sem\ta\sum\sum\sum.cpp(92,35): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+  sum.vcxproj -> F:\Projects\C++\4-sem\ta\sum\Debug\sum.exe
