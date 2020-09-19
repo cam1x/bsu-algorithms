@@ -1,3 +1,4 @@
+# C++
 # Prerequisites
 *.d
 
@@ -40,3 +41,7 @@
 Debug/
 */cmake-build-debug/
 CMakeLists.txt
+
+# Java
+out/
+*iml
