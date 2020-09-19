@@ -37,7 +37,6 @@
 *.vcxproj.filters
 *.txt
 *.sln
-*/Debug/
-*/Debug
+Debug/
 */cmake-build-debug/
 CMakeLists.txt
